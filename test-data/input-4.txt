@@ -1,0 +1,4 @@
+#Ha a torpedo store failure-t küld vissza, akkor nem próbál lőni
+GT4500,1,0,2,1
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # should have fired from the secondary store
